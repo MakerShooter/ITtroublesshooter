@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IT troubles shooter</string>
+    <string name="contactMe">Contact me!</string>
+    <string name="headerText">solves all your problems with computer</string>
+    <string name="footerText">Contact me!</string>
+</resources>
